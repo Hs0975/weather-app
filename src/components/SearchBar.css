@@ -1,0 +1,52 @@
+.SearchBar input {
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    border: none; 
+    outline: none; 
+    font-size: 20px;
+    background: transparent;
+    color: #ffffff;
+  border-bottom: 1px solid #ffffff; 
+
+  }
+
+.SearchBar img {
+  width: 30px;
+  height: 30px;
+ 
+  
+}
+.SearchBar button{
+    width: 50px;
+    height: 50px;
+    background:transparent;
+    border: none;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.5s;   
+}
+
+.WeatherDisplay{
+    display: flex;
+   justify-content:space-between;
+    gap: 100px;
+    flex-direction: column;
+    color:rgb(248, 242, 242);
+    font-size: 22px;
+    width: 65%;
+    
+}
+
+.text{
+gap: 100px;
+    font-size: 20px;
+    color: #ffffff;
+ 
+}
+
+.images{
+    width: 14px;
+    height: 26px;
+}

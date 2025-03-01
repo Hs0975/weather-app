@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #007aff; /* Example: Change to Figma primary color */
+  --secondary-color: #4a4a4a;
+  --bg-color: #f3f4f6;
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  color: var(--primary-color);
+}
